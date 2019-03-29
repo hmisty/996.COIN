@@ -1,5 +1,9 @@
 # 996.ICU Coin 996.ICU代币
 
+[996.ICU](https://github.com/996icu/996.ICU) tends to be an autonomous social movement which could be a good scenario for blockchain to empower. Here comes the solution.
+
+[996.ICU](https://github.com/996icu/996.ICU)正在成为一项自发的社会运动，或许可借助区块链技术来赋能。下面是解决方案。
+
 996.ICU Coin is an Ethereum-based digital token having at heart the well-being of the workers working in companies demanding the so-called "996.ICU" (9AM-9PM, Mon-Sat) working time.
 
 996.ICU代币是一种基于“以太坊”区块链技术的数字代币，致力于关心那些在要求“996.ICU”工作制的公司工作的劳动者的福利。
@@ -8,11 +12,11 @@ Concrete speaking, a "996.ICU" worker can "check in" on the blockchain DApp and 
 
 具体而言，一个996.ICU劳动者可以通过在区块链DApp上“打卡”来获得区块链自动发放的996.ICU代币奖励。打卡时间是该劳动者进行了996.ICU工作的工作量证明，即，在周一到周五的工作日的晚9点到12点，以及周六的全天，都是有效的打卡时间段。时间需要根据时区进行修正。
 
-Some legally necessary information such as the "checking in" worker's IP address and time (timezone adjusted) will be forever recorded on the blockchain. These information could be used as possible legal evidence when needed, for example, to advocate overtime compensation, on the court in the furture.
+Some legally necessary information such as the "checking in" worker's IP address and time (timezone adjusted) will be forever recorded on the blockchain. These information could be used as possible legal evidence when needed in the furture.
 
-一些法律上必要的信息，比如打卡人的IP地址和打卡时间（经时区调整的）将被永久记录在区块链上。这些信息可能被用作法律证据，以备将来在必要时使用，比如在法庭上主张加班补偿金。
+一些法律上必要的信息，比如打卡人的IP地址和打卡时间（经时区调整的）将被永久记录在区块链上。这些信息可能被用作法律证据，以备将来在必要时使用。
 
-Furthermore, more utility scenarios for 996.ICU Coin could be developed to continuously improve the workers' benefits, as well as backing the coin value. For example, 996.ICU Coins could be used for paying the treatment fee in the hospital, purchasing pills in the drugstore, or affording a lawsuit against the company, etc.
+Furthermore, more utility scenarios for 996.ICU Coin could be developed to continuously improve the workers' benefits, as well as backing the coin value. For example, 996.ICU Coins could be used for paying the treatment fee in the hospital, purchasing pills in the drugstore, or affording a lawsuit, etc.
 
 更进一步的，996.ICU代币更多的应用场景可以被开发出来，以持续改善劳动者的福利，以及支撑币值。比如，996.ICU代币可以被用于支付住院治疗费，在药店买药，或者用于负担法律诉讼费用，等等。
 
