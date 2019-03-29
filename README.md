@@ -4,9 +4,9 @@
 
 996.ICU代币是一种基于“以太坊”区块链技术的数字代币，致力于关心那些在要求“996.ICU”工作制的公司工作的劳动者的福利。
 
-Concrete speaking, a "996.ICU" worker can "check in" on the blockchain and get the issued 996.ICU Coin in the "996.ICU" proof-of-work timespan, which means from 9PM to 12PM on Monday to Friday, and full day on Saturday. Timezone will be considered for adjustment.
+Concrete speaking, a "996.ICU" worker can "check in" on the blockchain DApp and get the issued 996.ICU Coin in the "996.ICU" proof-of-work timespan, which means from 9PM to 12PM on Monday to Friday, and full day on Saturday. Timezone will be considered for adjustment.
 
-具体而言，一个996.ICU劳动者可以通过在区块链上“打卡”来获得区块链自动发放的996.ICU代币奖励。打卡时间是该劳动者进行了996.ICU工作的工作量证明，即，在周一到周五的工作日的晚9点到12点，以及周六的全天，都是有效的打卡时间段。时间需要根据时区进行修正。
+具体而言，一个996.ICU劳动者可以通过在区块链DApp上“打卡”来获得区块链自动发放的996.ICU代币奖励。打卡时间是该劳动者进行了996.ICU工作的工作量证明，即，在周一到周五的工作日的晚9点到12点，以及周六的全天，都是有效的打卡时间段。时间需要根据时区进行修正。
 
 Some legally necessary information such as the "checking in" worker's IP address and time (timezone adjusted) will be forever recorded on the blockchain. These information could be used as possible legal evidence when needed, for example, to advocate overtime compensation, on the court in the furture.
 
