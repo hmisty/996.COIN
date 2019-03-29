@@ -2,7 +2,7 @@
 
 [996.ICU](https://github.com/996icu/996.ICU) tends to be an autonomous social movement which could be a good scenario for blockchain to empower. Here comes the solution.
 
-[996.ICU](https://github.com/996icu/996.ICU)正在成为一项自发的社会运动，或许可借助区块链技术来赋能。下面是解决方案。
+[996.ICU](https://github.com/996icu/996.ICU)正在成为一场自发的社会运动，或许可借助区块链技术来赋能。下面是解决方案。
 
 996.ICU Coin is an Ethereum-based digital token having at heart the well-being of the workers working in companies demanding the so-called "996.ICU" (9AM-9PM, Mon-Sat) working time.
 
