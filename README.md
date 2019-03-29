@@ -1,4 +1,4 @@
-# 996.ICU Coin 996.ICU代币
+# 996.ICU Coin / 996.ICU代币
 
 [996.ICU](https://github.com/996icu/996.ICU) tends to be an autonomous social movement which could be a good scenario for blockchain to empower. Here comes the solution.
 
